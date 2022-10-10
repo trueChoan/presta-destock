@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Johan Ala</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truechoan&label=Profile%20views&color=0e75b6&style=flat" alt="truechoan" /> </p>
 
 **`I am a creator : developer/photographer/filmmaker from France`**
 
@@ -36,3 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truechoan&" alt="truechoan" /></p>
 
 </details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=truechoan&label=Profile%20views&color=0e75b6&style=flat" alt="truechoan" /> </p>
