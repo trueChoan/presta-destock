@@ -8,6 +8,8 @@
 
 - 👯 I’m proud to show you my final project with Wild Code School [Montbeliard BoardGame](https://montbeliard-cite-libre.remote-fr-1.wilders.dev/)
 
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johan-ala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan ala" height="30" width="40" /></a>
