@@ -12,14 +12,12 @@
 
 <details>
   <summary> Projects I Worked On </summary>
-  
  <a  href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'> <img style="text-align:right" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=true&theme=highcontrast" /> </a>
   <a  href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
  <a  href='https://github.com/MarysaR/Trombinoscope'><img src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=false&theme=highcontrast" /></a>
   <a  href='https://github.com/trueChoan/hackaton_apside'><img src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=hackaton_apside&show_owner=true&theme=highcontrast" /></a>
-
   </details>
-
+  
 #
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +31,8 @@
 <a href="https://linkedin.com/in/johan-ala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan ala" height="30" width="40" /></a>
 <a href="https://instagram.com/truechoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truechoan" height="30" width="40" /></a>
 </p>
-  ---
+
+---
 
 ### 📊 Stats
 
