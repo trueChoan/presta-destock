@@ -31,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truechoan&show_icons=true&locale=en" alt="truechoan" /></p>
 
+### VScode Weekly Stats and coding streak
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trueChoan&theme=highcontrast" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truechoan&" alt="truechoan" /></p>
