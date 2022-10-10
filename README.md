@@ -13,7 +13,7 @@
 <details>
   <summary> I Worked On :</summary>
   
-- Project 3 WCS Montbéliard Jeux d'Histoire :  <a style="text-align:right" href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=true&theme=highcontrast" /> </a>
+- Project 3 WCS Montbéliard Jeux d'Histoire :  <a  href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'> <img style="text-align:right" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=true&theme=highcontrast" /> </a>
 - Project 2 WCS Blindtest :  <a  href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
 - Project 1 WCS Trombinoscope : <a  href='https://github.com/MarysaR/Trombinoscope'><img  src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=false&theme=highcontrast" /></a>
  
