@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '8889',
+    'database_name' => 'cbdestock_db',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '22oCoYFU0ALY0wPazhkKZw4Oq7gKB3RsKVBEng9nZV5pD0cNFjtM3wR1twFnpacf',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-09-27',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'xOcNua0CY3EsyaQO1B8RUPnzSKGQrsKQAcSX7GgTZLtvirdw5sxcnu7dHkCSpdZv',
+    'cookie_iv' => 'b90xx8h0rFh7aJZCUK2QQU2Ug9S2OD8V',
+    'new_cookie_key' => 'def00000820c9631ce4c877ec43d92cb87aa261732bea811f6b127a24765383de6901f164d15176af65d032606bdbb06b419a5a9f4289a9cbec704654ca1a0844d9dcb49',
+  ),
+);
