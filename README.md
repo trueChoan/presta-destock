@@ -3,9 +3,9 @@
 **`I am a creator : developer/photographer/filmmaker from France`**
 
 
-- 🔭 I’m currently working on **an elearning platform in my internship.**
+- 🔭 I’m currently working on **an elearning platform in my internship with High Society.**
 
-- 🌱 I’m currently learning **Typescript, nodeJS, React Native, GraphQL**
+- 🌱 I’m currently learning **Typescript, nodeJS, React Native, GraphQL** at Wild Code School from september 22 to september 23.
 
 - 👯 I’m proud to show you my final project with Wild Code School [Montbeliard BoardGame](https://montbeliard-cite-libre.remote-fr-1.wilders.dev/)
 
