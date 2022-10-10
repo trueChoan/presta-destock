@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johan Ala</h1>
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
 **`I am a creator : developer/photographer/filmmaker from France`**
 
 
