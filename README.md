@@ -10,6 +10,19 @@
 
 #
 
+<details>
+  <summary># I Worked On :</summary>
+  
+- Project 3 WCS Montbéliard Jeux d'Histoire 
+- Project 2 WCS Blindtest :
+- Project 1 WCS Trombinoscope : <br><br>
+ <a href='https://github.com/MarysaR/Trombinoscope'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=false&theme=highcontrast" /></a> <a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
+ <a href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=true&theme=highcontrast" /> </a>
+  </details>
+       
+
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johan-ala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan ala" height="30" width="40" /></a>
