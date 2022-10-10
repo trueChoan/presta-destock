@@ -30,7 +30,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truechoan&show_icons=true&locale=en&layout=compact" alt="truechoan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truechoan&show_icons=true&locale=en" alt="truechoan" /></p>
-<details>
+ 
 ### VScode Weekly Stats and coding streak
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trueChoan&theme=highcontrast" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truechoan&" alt="truechoan" /></p>
+  
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
