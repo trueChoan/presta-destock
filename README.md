@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Ala</h1>
-<h3 align="center">**`I am a creator : developer/photographer/filmmaker from France`**</h3>
+**`I am a creator : developer/photographer/filmmaker from France`**
 
 
 - 🔭 I’m currently working on **an elearning platform in my internship.**
