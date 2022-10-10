@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Ala</h1>
-
-**`I am a creator : developer/photographer/filmmaker from France`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truechoan&label=Profile%20views&color=0e75b6&style=flat" alt="truechoan" /> </p>
 
+**`I am a creator : developer/photographer/filmmaker from France`**
 
 - 🔭 I’m currently working on **an elearning platform in my internship with High Society.**
 
