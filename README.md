@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, nodeJS, React Native, GraphQL**
 
-- 👯 I’m proud to show you my final project with Wild Code School [Montbeliard BoardGame](liard-cite-libre.remote-fr-1.wilders.dev)
+- 👯 I’m proud to show you my final project with Wild Code School [Montbeliard BoardGame](2022-03-php-remote-1283-montbeliard-cite-libre)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
