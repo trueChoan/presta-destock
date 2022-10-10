@@ -11,7 +11,7 @@
 #
 
 <details>
-  <summary> I Worked On </summary>
+  <summary> Projects I Worked On </summary>
   
  <a  href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'> <img style="text-align:right" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=true&theme=highcontrast" /> </a>
   <a  href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
@@ -19,7 +19,6 @@
   <a  href='https://github.com/trueChoan/hackaton_apside'><img src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=hackaton_apside&show_owner=true&theme=highcontrast" /></a>
 
   </details>
-       
 
 #
 
@@ -39,9 +38,9 @@
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truechoan&show_icons=true&locale=en&layout=compact" alt="truechoan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truechoan&show_icons=true&locale=en&theme=highcontrast&layout=compact" alt="truechoan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truechoan&show_icons=true&locale=en" alt="truechoan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truechoan&theme=highcontrast&show_icons=true&locale=en" alt="truechoan" /></p>
   
   <details>
   <summary>:zap: VScode Weekly Stats and Coding streak</summary>
