@@ -16,7 +16,8 @@
   <a  href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
  <a  href='https://github.com/MarysaR/Trombinoscope'><img src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=false&theme=highcontrast" /></a>
   <a  href='https://github.com/trueChoan/hackaton_apside'><img src="https://github-readme-stats.vercel.app/api/pin/?username=trueChoan&repo=hackaton_apside&show_owner=true&theme=highcontrast" /></a>
-  </details>
+</details>
+
 #
 
 <h3 align="left">Languages and Tools:</h3>
