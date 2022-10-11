@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-10 10:27:16
+/* Smarty version 3.1.43, created on 2022-10-11 14:19:30
   from 'module:blockwishlistviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6343d764579a63_89936939',
+  'unifunc' => 'content_63455f524c9f31_98515382',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6343d764579a63_89936939 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63455f524c9f31_98515382 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /Applications/MAMP/htdocs/cbdestock/modules/blockwishlist/views/templates/components/modals/login.tpl -->
 <div
   class="wishlist-login"

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-10 10:27:12
+/* Smarty version 3.1.43, created on 2022-10-11 10:41:21
   from '/Applications/MAMP/htdocs/cbdestock/admin269btjd43/themes/default/template/helpers/modules_list/modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6343d760e34952_96515088',
+  'unifunc' => 'content_63452c318e36e8_40597973',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6343d760e34952_96515088 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63452c318e36e8_40597973 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal fade" id="modules_list_container">
 	<div class="modal-dialog">
 		<div class="modal-content">

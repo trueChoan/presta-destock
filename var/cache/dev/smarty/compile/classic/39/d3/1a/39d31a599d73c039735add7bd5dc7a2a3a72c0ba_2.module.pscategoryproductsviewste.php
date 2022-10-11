@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-03 11:11:44
+/* Smarty version 3.1.43, created on 2022-10-11 10:41:20
   from 'module:pscategoryproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_633aa750d3b6f5_28913155',
+  'unifunc' => 'content_63452c306722a1_54994436',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/productlist.tpl' => 1,
   ),
 ),false)) {
-function content_633aa750d3b6f5_28913155 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63452c306722a1_54994436 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /Applications/MAMP/htdocs/cbdestock/themes/classic/modules/ps_categoryproducts/views/templates/hook/ps_categoryproducts.tpl --><section class="featured-products clearfix mt-3">
   <h2>
     <?php if (count($_smarty_tpl->tpl_vars['products']->value) == 1) {?>

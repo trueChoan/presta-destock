@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-10-10 10:27:12
+/* Smarty version 3.1.43, created on 2022-10-11 11:37:01
   from '/Applications/MAMP/htdocs/cbdestock/modules/welcome/views/contents/end.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6343d7600001a7_25923388',
+  'unifunc' => 'content_6345393d7a23e1_24988026',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6343d7600001a7_25923388 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6345393d7a23e1_24988026 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">
