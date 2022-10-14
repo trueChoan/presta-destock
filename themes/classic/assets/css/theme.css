@@ -8381,7 +8381,7 @@ body#checkout #hook-display-after-carrier > [class^="col"].links .row > [class^=
 .carousel .carousel-item .caption {
 	position: absolute;
 	bottom: 28px;
-	left: 90px;
+	left: 65px;
 	max-width: 340px;
 	color: #fff;
 }
@@ -8458,6 +8458,7 @@ body#checkout #hook-display-after-carrier > [class^="col"].links .row > [class^=
 		margin-left: -50vw;
 		background-color: #f6f6f6;
 		box-shadow: none;
+		display: none;
 	}
 	.carousel .carousel-control .icon-prev,
 	.carousel .carousel-control .icon-next {
@@ -8465,7 +8466,6 @@ body#checkout #hook-display-after-carrier > [class^="col"].links .row > [class^=
 		height: auto;
 	}
 	.carousel .carousel-item .caption {
-		position: static;
 		margin: 1.275rem auto 2.5rem;
 		text-align: center;
 	}
