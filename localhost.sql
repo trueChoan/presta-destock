@@ -17,13 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8 */;
 
---
--- Base de données : `cbdestock_db`
---
-CREATE DATABASE IF NOT EXISTS `cbdiscount` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `cbdiscount`;
 
--- --------------------------------------------------------
 
 
 
@@ -23577,12 +23571,7 @@ ALTER TABLE `ps_wishlist_product`
 --
 ALTER TABLE `ps_zone`
   MODIFY `id_zone` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
---
--- Base de données : `cbdiscount`
---
-CREATE DATABASE IF NOT EXISTS `cbdiscount` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `cbdiscount`;
-COMMIT;
+
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
